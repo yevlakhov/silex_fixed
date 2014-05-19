@@ -1,6 +1,6 @@
 {
     "minimum-stability": "dev",
-    "name": "silex/silex",
+    "name": "trigig/silex_fixed",
     "description": "The PHP micro-framework based on the Symfony2 Components",
     "keywords": ["microframework"],
     "homepage": "http://silex.sensiolabs.org",
