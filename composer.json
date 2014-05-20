@@ -53,8 +53,8 @@
         "symfony/form": ">=2.4,<2.6-dev"
     },
     "replace": {
-        "silex/api": "self.version",
-        "silex/providers": "self.version"
+        "trigig/api": "self.version",
+        "trigig/providers": "self.version"
     },
     "autoload": {
         "psr-0": { "Silex": "src/" }
