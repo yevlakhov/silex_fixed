@@ -58,10 +58,5 @@
     },
     "autoload": {
         "psr-0": { "Silex": "src/" }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "2.0.x-dev"
-        }
     }
 }
